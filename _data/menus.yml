@@ -1,0 +1,42 @@
+primary:
+  - title: Main Menu
+    subfolderitems:
+      - name: "Services"
+        url: "/services/"
+        weight: 2
+      - name: "Products"
+        url: "/products/"
+        weight: 2
+      - name: "Advisories"
+        url: "/advisories/"
+        weight: 2
+      - name: "Research"
+        url: "#"
+        weight: 3
+        subsubfolderitems:
+          - name: "Contact Us"
+            url: "/contact/"
+            weight: 2
+          - name: "Careers"
+            url: "/careers/"
+            weight: 2
+          - name: "Privacy Policy"
+            url: "/privacy-policy/"
+            weight: 2
+          - name: "Terms Of Service"
+            url: "/terms-of-service/"
+            weight: 2
+
+footer_menu_one_title: Usefull Link
+footer_menu:
+  - title: "Services"
+    url: "/services/"
+
+  - title: "Products"
+    url: "/products/"
+
+  - title: "Careers"
+    url: "/careers/"
+
+  - title: "Advisories"
+    url: "/advisories/"

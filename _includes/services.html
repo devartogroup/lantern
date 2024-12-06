@@ -1,0 +1,31 @@
+<!-- Service Section - Start
+================================================== -->
+
+<div class="service_section">
+    <div class="container-fluid">
+        <div class="boxed_wrapper bg-white rounded">
+            <div class="accordion" id="service_accordion">
+                {% for service in site.data.service.services %}
+                
+                <div class="accordion-item" data-aos="fade-up" data-aos-duration="900">
+                    <div class="accordion-header" role="button" data-bs-toggle="collapse" data-bs-target="#collapse_{{ forloop.index }}"
+                        aria-expanded="{% if service.show == true%}true{% endif %}" aria-controls="collapse_{{ forloop.index }}">
+                        {{ service.title }}
+                    </div>
+                    <div id="collapse_{{ forloop.index }}" class="accordion-collapse collapse {% if service.show == true%}show{% endif %}" data-bs-parent="#service_accordion">
+                        <div class="accordion-body">
+                            <p class="mb-0">
+                                {{ service.desc }}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Service Section - End
+================================================== -->

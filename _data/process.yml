@@ -1,0 +1,51 @@
+process1:
+  - title: Define
+    sub_title: "Define Your Critical Business Workflows"
+    list_items:
+      - item: "What is the <a href='#'>LIFEBLOOD</a> of the business?"
+      - item: "Where are the <a href='#'>CROWN JEWELS?</a>"
+      - item: "Which workflows are the primary drivers for <a href='#'>PROFIT, REVENUE,</a> and <a href='#'>CASHFLOW?</a>"
+      - item: "Where is the critical <a href='#'>DATA? BLS</a> is dedicated to understanding the <a href='#'>ENTIRE</a> organization."
+  - title: Assess
+    sub_title: "Assess Workflow Resources and Assets"
+    list_items:
+      - item: "What is the <a href='#'>LIFEBLOOD</a> of the business?"
+      - item: "Where are the <a href='#'>CROWN JEWELS?</a>"
+      - item: "Which workflows are the primary drivers for <a href='#'>PROFIT, REVENUE,</a> and <a href='#'>CASHFLOW?</a>"
+      - item: "Where is the critical <a href='#'>DATA? BLS</a> is dedicated to understanding the <a href='#'>ENTIRE</a> organization."
+  - title: Enumerate
+    sub_title: "Enumerate and Attack Assets"
+    list_items:
+      - item: "What is the <a href='#'>LIFEBLOOD</a> of the business?"
+      - item: "Where are the <a href='#'>CROWN JEWELS?</a>"
+      - item: "Which workflows are the primary drivers for <a href='#'>PROFIT, REVENUE,</a> and <a href='#'>CASHFLOW?</a>"
+      - item: "Where is the critical <a href='#'>DATA? BLS</a> is dedicated to understanding the <a href='#'>ENTIRE</a> organization." 
+  - title: Quantify
+    sub_title: "Quantify Business Impacts"
+    list_items:
+      - item: "What is the <a href='#'>LIFEBLOOD</a> of the business?"
+      - item: "Where are the <a href='#'>CROWN JEWELS?</a>"
+      - item: "Which workflows are the primary drivers for <a href='#'>PROFIT, REVENUE,</a> and <a href='#'>CASHFLOW?</a>"
+      - item: "Where is the critical <a href='#'>DATA? BLS</a> is dedicated to understanding the <a href='#'>ENTIRE</a> organization."
+  - title: Verify
+    sub_title: "Verify and Validate Defensive Controls"
+    list_items:
+      - item: "What is the <a href='#'>LIFEBLOOD</a> of the business?"
+      - item: "Where are the <a href='#'>CROWN JEWELS?</a>"
+      - item: "Which workflows are the primary drivers for <a href='#'>PROFIT, REVENUE,</a> and <a href='#'>CASHFLOW?</a>"
+      - item: "Where is the critical <a href='#'>DATA? BLS</a> is dedicated to understanding the <a href='#'>ENTIRE</a> organization."
+  - title: Identify
+    sub_title: "Identify Strategic and Tactical Gaps"
+    list_items:
+      - item: "What is the <a href='#'>LIFEBLOOD</a> of the business?"
+      - item: "Where are the <a href='#'>CROWN JEWELS?</a>"
+      - item: "Which workflows are the primary drivers for <a href='#'>PROFIT, REVENUE,</a> and <a href='#'>CASHFLOW?</a>"
+      - item: "Where is the critical <a href='#'>DATA? BLS</a> is dedicated to understanding the <a href='#'>ENTIRE</a> organization."
+  - title: Remediate
+    sub_title: "Remediate and Reduce Risk"
+    list_items:
+      - item: "What is the <a href='#'>LIFEBLOOD</a> of the business?"
+      - item: "Where are the <a href='#'>CROWN JEWELS?</a>"
+      - item: "Which workflows are the primary drivers for <a href='#'>PROFIT, REVENUE,</a> and <a href='#'>CASHFLOW?</a>"
+      - item: "Where is the critical <a href='#'>DATA? BLS</a> is dedicated to understanding the <a href='#'>ENTIRE</a> organization."
+  

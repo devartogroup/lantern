@@ -1,0 +1,62 @@
+[
+  {
+    "image": "../assets/images/logo_bbot.webp",
+    "title": "BBOT",
+    "sub_title": "(Bighuge BLS OSINT Tool)",
+    "desc": "BBOT is a recursive, modular, Open Source Intelligence (OSINT) gathering framework. BBOT has been designed to support offensive and defensive cyber operations, including enterprise-wide Attack Surface Management (ASM)",
+    "source": "Free & Open Source",
+    "grade": "Enterprise Grade",
+    "btn_text": "View More",
+    "btn_link": "#"
+  },
+  {
+    "image": "../assets/images/logo_trevorspray.webp",
+    "title": "Writehat",
+    "sub_title": "Vulnerabilities Solved",
+    "desc": "We've all experienced the frustrations that accompany formatting, placement, and content generation. WriteHat enables consultants to quickly and easily generate reports based on raw data, screenshots, and re-usable content.",
+    "source": "Free & Open Source",
+    "grade": "",
+    "btn_text": "View More",
+    "btn_link": "#"
+  },
+  {
+    "image": "../assets/images/logo_writehat.webp",
+    "title": "SplinterNET",
+    "sub_title": "Execute continuous attacks for up to the minute detection and prevention.",
+    "desc": "Breach and Attack simulation (BAS) provides for continuous validation and improvement of network-, host-, email-, and web-based security controls.",
+    "source": "",
+    "grade": "Enterprise Grade",
+    "btn_text": "Contact Us",
+    "btn_link": "#"
+  },
+  {
+    "image": "../assets/images/logo_baddns.webp",
+    "title": "TrevorSpray",
+    "sub_title": "",
+    "desc": "TREVORspray is a modular password sprayer with threading, SSH proxying, loot modules, and more!",
+    "source": "Free & Open Source",
+    "grade": "",
+    "btn_text": "View More",
+    "btn_link": "#"
+  },
+  {
+    "image": "../assets/images/logo_splinternet.webp",
+    "title": "badDNS",
+    "sub_title": "",
+    "desc": "BadDNS is a standalone tool and BBOT module for detecting domain/subdomain takeovers of all kinds, including other DNS issues like NSEC walks and Subdomain Takeovers.",
+    "source": "Free & Open Source",
+    "grade": "",
+    "btn_text": "View More",
+    "btn_link": "#"
+  },
+  {
+    "image": "../assets/images/logo_manspider.webp",
+    "title": "ManSpider",
+    "sub_title": "",
+    "desc": "Crawl SMB shares for juicy information. File content searching + regex is supported!",
+    "source": "Free & Open Source",
+    "grade": "",
+    "btn_text": "View More",
+    "btn_link": "#"
+  }
+]

@@ -1,0 +1,40 @@
+/* Hero Section - Start
+================================================== */
+.hero_section {
+	z-index: 1;
+	display: flex;
+	padding: 150px 0;
+	min-height: 100vh;
+	position: relative;
+	align-items: center;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+	&:before {
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		content: '';
+		z-index: -1;
+		position: absolute;
+		background: linear-gradient(0deg, var(--bs-dark), rgba(var(--bs-dark-rgb), 0.5));
+	}
+	.hero_description {
+		margin: auto;
+		max-width: 1000px;
+	}
+}
+
+.hero_title {
+	line-height: 1;
+	font-weight: 900;
+	font-size: 140px;
+	margin-bottom: 10px;
+}
+.hero_description {
+	font-size: 24px;
+}
+/* Hero Section - End
+================================================== */

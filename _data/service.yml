@@ -1,0 +1,47 @@
+services:
+  - title: "Attack Surface Management"
+    show: true
+    desc: "Most vulnerability assessments and scanners will leverage publicly available information
+                                to identify well-known vulnerabilities and common misconfigurations. This information
+                                provides the basis for a solid mitigation strategy and is the first step to securing
+                                critical resources. However, for organizations facing a determined and well-resourced
+                                adversary this may not be enough. BLS engineers will conduct exploratory research and
+                                analysis of complex systems for the express purpose of discovering new and/or
+                                undisclosed vulnerabilities. The objective is to discover these vulnerabilities and take
+                                corrective action before they can be exploited by an attacker."
+  - title: Penetration Testing
+    desc: "Most vulnerability assessments and scanners will leverage publicly available information
+                                to identify well-known vulnerabilities and common misconfigurations. This information
+                                provides the basis for a solid mitigation strategy and is the first step to securing
+                                critical resources. However, for organizations facing a determined and well-resourced
+                                adversary this may not be enough. BLS engineers will conduct exploratory research and
+                                analysis of complex systems for the express purpose of discovering new and/or
+                                undisclosed vulnerabilities. The objective is to discover these vulnerabilities and take
+                                corrective action before they can be exploited by an attacker."  
+  - title: Cybersecurity Assessments
+    desc: "Most vulnerability assessments and scanners will leverage publicly available information
+                                to identify well-known vulnerabilities and common misconfigurations. This information
+                                provides the basis for a solid mitigation strategy and is the first step to securing
+                                critical resources. However, for organizations facing a determined and well-resourced
+                                adversary this may not be enough. BLS engineers will conduct exploratory research and
+                                analysis of complex systems for the express purpose of discovering new and/or
+                                undisclosed vulnerabilities. The objective is to discover these vulnerabilities and take
+                                corrective action before they can be exploited by an attacker."
+  - title: Regulatory Requirements
+    desc: "Most vulnerability assessments and scanners will leverage publicly available information
+                                to identify well-known vulnerabilities and common misconfigurations. This information
+                                provides the basis for a solid mitigation strategy and is the first step to securing
+                                critical resources. However, for organizations facing a determined and well-resourced
+                                adversary this may not be enough. BLS engineers will conduct exploratory research and
+                                analysis of complex systems for the express purpose of discovering new and/or
+                                undisclosed vulnerabilities. The objective is to discover these vulnerabilities and take
+                                corrective action before they can be exploited by an attacker."
+  - title: Vulnerability Research
+    desc: "Most vulnerability assessments and scanners will leverage publicly available information
+                                to identify well-known vulnerabilities and common misconfigurations. This information
+                                provides the basis for a solid mitigation strategy and is the first step to securing
+                                critical resources. However, for organizations facing a determined and well-resourced
+                                adversary this may not be enough. BLS engineers will conduct exploratory research and
+                                analysis of complex systems for the express purpose of discovering new and/or
+                                undisclosed vulnerabilities. The objective is to discover these vulnerabilities and take
+                                corrective action before they can be exploited by an attacker."
