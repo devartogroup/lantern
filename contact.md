@@ -1,5 +1,5 @@
 ---
-title: 'Contact Us'
+title: 'Contact'
 date: 2024-11-20T17:01:34+07:00
 layout: default
 bodyClass: page-contact

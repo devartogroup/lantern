@@ -3,7 +3,7 @@ title: Lantern
 layout: default
 description: Lantern Sass & Startup Jekyll Theme
 
-hero_title: "Attack to Defend"
+hero_title: "Attack <br> to Defend"
 hero_desc: "By analyzing and simulating the most relevant attacks, Black Lantern Security delivers solutions that provide immediate reductions in organizational risk."
 hero_btn1_text: "Learn More"
 hero_btn1_url: "#"
