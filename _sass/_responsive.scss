@@ -1,3 +1,14 @@
+/* 
+Responsive For Mobile & Tablet Devices
+================================================== 
+* Project Name   :  Black Lantern - Cybersecurity Services Company.
+* File           :  CSS Base
+* Version        :  1.0.0
+* Developer			 :	webrok (https://www.fiverr.com/webrok?up_rollout=true)
+*	CSS code for responsive layout To make responsive
+================================================== 
+*/
+
 /* Media Screen 1440px - Start
 ================================================== */
 @media screen and (max-width: 1440px) {
@@ -101,9 +112,6 @@
 		padding-left: 15px;
 		padding-right: 15px;
 	}
-	.site_footer .boxed_wrapper {
-		margin-bottom: 15px;
-	}
 }
 /* Media Screen 1199px - End
 ================================================== */
@@ -157,6 +165,10 @@
 	.hero_description {
 		font-size: 20px;
 	}
+	.shape_light_3 {
+		left: -58%;
+		bottom: -400px;
+	}
 }
 /* Media Screen 1024px - End
 ================================================== */
@@ -168,8 +180,7 @@
 		max-width: 730px;
 	}
 	.hero_section {
-		min-height: auto;
-		padding: 200px 0 150px;
+		padding: 150px 0 120px;
 	}
 	.site_header .btns_group {
 		gap: 10px;
@@ -193,11 +204,15 @@
 	.contact_section {
 		padding-bottom: 140px;
 	}
-	.contact_form {
-		padding: 40px;
-	}
-	.shape_light {
+	.shape_light_1 {
 		bottom: -66px;
+	}
+	.shape_light_2 {
+		top: -33%;
+		left: -55%;
+	}
+	.shape_light_3 {
+		display: none;
 	}
 }
 /* Media Screen 991px - End
@@ -225,7 +240,9 @@
 	.hero_description {
 		font-size: 18px;
 	}
-	.shape_light {
+	.shape_light_1,
+	.shape_light_2,
+	.shape_light_3 {
 		display: none;
 	}
 }

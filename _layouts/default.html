@@ -19,13 +19,9 @@
      <!-- Counter - CSS Include -->
     <link href="{{ '/assets/css/odometer.min.css' | relative_url }}" rel="stylesheet">
 
+    <!-- Custom - CSS Include -->
     <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
 
- 
-     
- 
-     <!-- Custom - CSS Include -->
-     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
     {% if page.description %}
     <meta name="description" content="{{ page.description }}" />
@@ -44,10 +40,16 @@
  
   
   <div class="page_wrapper">
-    <div class="shape_light">
+
+    <div class="{% if page.bodyClass == 'page-contact' %}shape_light_3{% else %}shape_light_1{% endif %}">
       <img src="../assets/images/shape_light.webp" alt="Shape Light">
     </div>
 
+    
+    <div class="shape_light_2 service_shape">
+      <img src="../assets/images/shape_light_2.webp" alt="Shape Light">
+    </div>
+    
     {% include header.html headerClass='header-extra' %}
     <main class="page_content">
       {{content}}

@@ -2,6 +2,9 @@
 ================================================== */
 .process_section {
 	.boxed_wrapper {
+		&.bg-white {
+			--bs-white-rgb: 249, 249, 249;
+		}
 		.brand_logo {
 			max-width: 200px;
 		}

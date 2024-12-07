@@ -1,24 +1,7 @@
 /* Page Header - Start
 ================================================== */
 .page_header_section {
-	z-index: 1;
-	position: relative;
 	padding: 186px 0 140px;
-	background-size: cover;
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-	background-blend-mode: overlay;
-	background-position: center center;
-	background-color: rgba(var(--bs-dark-rgb), 0.6);
-	&:before {
-		top: 0;
-		left: 0;
-		right: 0;
-		bottom: 0;
-		content: '';
-		position: absolute;
-		background: linear-gradient(0deg, var(--bs-dark), rgba(var(--bs-dark-rgb), 0));
-	}
 }
 /* Page Header - End
 ================================================== */

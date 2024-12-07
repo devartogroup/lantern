@@ -21,7 +21,7 @@ body {
 	position: relative;
 }
 
-.shape_light {
+.shape_light_1 {
 	left: 0;
 	right: 0;
 	z-index: -2;
@@ -30,7 +30,34 @@ body {
 	text-align: center;
 	animation: fadeInOut 3s infinite;
 }
-
+.shape_light_2 {
+	z-index: -1;
+	left: -150px;
+	top: -1000px;
+	width: 2000px;
+	position: absolute;
+	animation: fadeInOut 3s infinite;
+}
+.shape_light_3 {
+	z-index: -2;
+	left: -240px;
+	bottom: -280px;
+	position: absolute;
+	animation: fadeInOut 3s infinite;
+}
+.shape_light_4 {
+	top: -22%;
+	left: -85%;
+	z-index: -1;
+	position: absolute;
+	animation: fadeInOut 3s infinite;
+}
+.service_shape {
+	display: none;
+	.page-service & {
+		display: block;
+	}
+}
 iframe {
 	border: none;
 }
@@ -94,7 +121,7 @@ button {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 700;
+	font-weight: 400;
 	color: var(--bs-heading-color);
 	font-family: var(--bs-heading-font-family);
 }

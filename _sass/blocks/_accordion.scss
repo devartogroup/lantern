@@ -19,13 +19,15 @@
 		display: flex;
 		line-height: 1;
 		font-size: 80px;
-		font-weight: 600;
 		box-shadow: none;
 		position: relative;
 		align-items: flex-start;
 		border-radius: 0 !important;
 		color: var(--bs-heading-color);
+		justify-content: space-between;
+		font-family: var(--bs-heading-font-family);
 		&:before {
+			order: 1;
 			width: 60px;
 			height: 60px;
 			content: '\2b';
@@ -42,7 +44,7 @@
 			background: var(--bs-dark);
 			transition: var(--bs-transition);
 			font-family: 'Font Awesome 5 Pro';
-			border: 1px solid rgba(var(--bs-border-color), 0.1);
+			border: 1px solid rgba(var(--bs-border-color), 0.2);
 		}
 
 		&:hover {
@@ -52,12 +54,12 @@
 				background-color: var(--bs-primary);
 			}
 		}
+		
 	}
 	.accordion-body {
 		padding: 40px 0 0;
 		p {
-			font-size: 24px;
-			line-height: 36px;
+			font-size: 20px;
 		}
 	}
 

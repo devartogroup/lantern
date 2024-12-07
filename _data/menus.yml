@@ -7,25 +7,19 @@ primary:
       - name: "Products"
         url: "/products/"
         weight: 2
+      - name: "Research"
+        url: "https://blog.blacklanternsecurity.com/"
+        weight: 2
       - name: "Advisories"
         url: "/advisories/"
         weight: 2
-      - name: "Research"
-        url: "#"
-        weight: 3
-        subsubfolderitems:
-          - name: "Contact Us"
-            url: "/contact/"
-            weight: 2
-          - name: "Careers"
-            url: "/careers/"
-            weight: 2
-          - name: "Privacy Policy"
-            url: "/privacy-policy/"
-            weight: 2
-          - name: "Terms Of Service"
-            url: "/terms-of-service/"
-            weight: 2
+      - name: "Careers"
+        url: "/careers/"
+        weight: 2
+      - name: "Contact"
+        url: "/contact/"
+        weight: 2
+        
 
 footer_menu_one_title: Usefull Link
 footer_menu:

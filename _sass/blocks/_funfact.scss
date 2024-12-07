@@ -24,16 +24,15 @@
 	.counter_value {
 		line-height: 1;
 		font-size: 64px;
-		font-weight: 800;
-		color: var(--bs-primary);
+		color: var(--bs-heading-color);
 		font-family: var(--bs-heading-font-family);
 	}
 	.funfact_title {
-		font-size: 26px;
+		font-size: 24px;
 		margin: 21px 0 12px;
 	}
 	p {
-		font-size: 19px;
+		font-size: 16px;
 	}
 }
 /* Funfact Block - End

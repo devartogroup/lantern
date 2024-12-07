@@ -7,7 +7,7 @@
     "source": "Free & Open Source",
     "grade": "Enterprise Grade",
     "btn_text": "View More",
-    "btn_link": "#"
+    "btn_link": "https://github.com/blacklanternsecurity/bbot"
   },
   {
     "image": "../assets/images/logo_trevorspray.webp",
@@ -17,7 +17,7 @@
     "source": "Free & Open Source",
     "grade": "",
     "btn_text": "View More",
-    "btn_link": "#"
+    "btn_link": "https://github.com/blacklanternsecurity/writehat"
   },
   {
     "image": "../assets/images/logo_writehat.webp",
@@ -37,7 +37,7 @@
     "source": "Free & Open Source",
     "grade": "",
     "btn_text": "View More",
-    "btn_link": "#"
+    "btn_link": "https://github.com/blacklanternsecurity/TREVORspray"
   },
   {
     "image": "../assets/images/logo_splinternet.webp",
@@ -47,7 +47,7 @@
     "source": "Free & Open Source",
     "grade": "",
     "btn_text": "View More",
-    "btn_link": "#"
+    "btn_link": "https://github.com/blacklanternsecurity/baddns"
   },
   {
     "image": "../assets/images/logo_manspider.webp",
@@ -57,6 +57,6 @@
     "source": "Free & Open Source",
     "grade": "",
     "btn_text": "View More",
-    "btn_link": "#"
+    "btn_link": "https://github.com/blacklanternsecurity/MANSPIDER"
   }
 ]

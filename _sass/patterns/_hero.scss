@@ -3,10 +3,9 @@
 .hero_section {
 	z-index: 1;
 	display: flex;
-	padding: 150px 0;
-	min-height: 100vh;
 	position: relative;
 	align-items: center;
+	padding: 170px 0 140px;
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -23,18 +22,24 @@
 	}
 	.hero_description {
 		margin: auto;
-		max-width: 1000px;
+		max-width: 850px;
+	}
+
+	.shape_light_2 {
+		top: -190px;
+		right: -200px;
+		width: 2000px;
+		animation: fadeInOut 3s infinite;
 	}
 }
 
 .hero_title {
 	line-height: 1;
-	font-weight: 900;
 	font-size: 140px;
 	margin-bottom: 10px;
 }
 .hero_description {
-	font-size: 24px;
+	font-size: 20px;
 }
 /* Hero Section - End
 ================================================== */

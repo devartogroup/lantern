@@ -8,11 +8,11 @@
 		margin: 80px 0 44px;
 	}
 	.boxed_wrapper {
-		margin-bottom: 30px;
+		border-radius: var(--bs-border-radius) var(--bs-border-radius) 0 0;
 	}
 	.iconlist_block {
 		&.unordered_list {
-			gap: 10px 50px;
+			gap: 10px 46px;
 		}
 		>li {
 			font-weight: 500;
