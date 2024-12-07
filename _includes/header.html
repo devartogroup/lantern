@@ -23,7 +23,7 @@
                         {% if entry.subsubfolderitems[0] %}
                         <li class="{% if entry.subsubfolderitems[0] %}dropdown{% endif %}">
                            
-                           <a class="nav-link" href="https://devartogroup.github.io/lantern/{{ entry.url }}" id="research_submenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                           <a class="nav-link" href="{{ entry.url }}" id="research_submenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                               <span class="nav_link_label" data-text="{{ entry.name }}">{{ entry.name }}</span>
                               <span class="nav_link_icon"><i class="fa-solid fa-chevron-down"></i></span>
                            </a>
@@ -50,7 +50,7 @@
                         </li>
                         {% else %}
                         <li>
-                           <a class="nav-link" href="{{ entry.url }}">
+                           <a class="nav-link" href="https://devartogroup.github.io/lantern/{{ entry.url }}">
                               <span class="nav_link_label" data-text="{{ entry.name }}">{{ entry.name }}</span>
                             </a>
 								</li>
