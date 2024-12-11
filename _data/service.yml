@@ -1,9 +1,12 @@
 services:
   - title: "Attack Surface Management"
     show: true
-    desc: "Internet-facing assets are a significant source of risk for organizations of any size. These assets, including on-premise servers, cloud storage, third-party applications, B2B integrations, APIs, and subsidiary-owned assets, collectively make up an organization's attack surface.<br>
-    Effective Attack Surface Management (ASM) and risk reduction requires continuous information gathering (domains, subdomains, web applications, web services, APIs, etc.) data validation, and analysis. BLS analysts combine all 3 functions to create our ASM service offering.<br>
-    Our analysts employ BLS tools and utilities to identify, enumerate, and test externally facing assets. Verification and validation testing for each vulnerability discovered reduces the incidence of false positives and provides for a more accurate determination of attack surface risk. <br>
+    desc: "Internet-facing assets are a significant source of risk for organizations of any size. These assets, including on-premise servers, cloud storage, third-party applications, B2B integrations, APIs, and subsidiary-owned assets, collectively make up an organization's attack surface.
+    <br><br>
+    Effective Attack Surface Management (ASM) and risk reduction requires continuous information gathering (domains, subdomains, web applications, web services, APIs, etc.) data validation, and analysis. BLS analysts combine all 3 functions to create our ASM service offering.
+    <br><br>
+    Our analysts employ BLS tools and utilities to identify, enumerate, and test externally facing assets. Verification and validation testing for each vulnerability discovered reduces the incidence of false positives and provides for a more accurate determination of attack surface risk.
+    <br><br>
     Based on the risk analysis, the BLS team prioritizes vulnerable assets for triage and remediation and validates any fixes deployed."
   - title: Penetration Testing
     desc: "Most vulnerability assessments and scanners will leverage publicly available information
