@@ -25,29 +25,27 @@ services:
     -Red Teaming<br>
     "  
   - title: Cybersecurity Assessments
-    desc: "Most vulnerability assessments and scanners will leverage publicly available information
-                                to identify well-known vulnerabilities and common misconfigurations. This information
-                                provides the basis for a solid mitigation strategy and is the first step to securing
-                                critical resources. However, for organizations facing a determined and well-resourced
-                                adversary this may not be enough. BLS engineers will conduct exploratory research and
-                                analysis of complex systems for the express purpose of discovering new and/or
-                                undisclosed vulnerabilities. The objective is to discover these vulnerabilities and take
-                                corrective action before they can be exploited by an attacker."
+    desc: "Organizations today have deployed numerous technologies to handle near constant communication and to support day-to-day operation of the business. 
+    <br><br>
+    Businesses within virtually every market vertical have deployed IT systems to handle their most sensitive assets, infrastructure, and resources. Although these changes have resulted in unprecedented gains in productivity, they also provide new and exciting opportunities for the attacker. Wireless, Web-enabled, Mobile, and VOIP technologies have all added to the attack surface that is exposed by an organization. 
+    <br><br>
+    BLS offers a suite of Cybersecurity assessments to help organizations identify vulnerabilities, develop mitigation strategies, and better manage overall risk.
+    <br><br>
+    Types of Assessments:<br>
+    Attack Surface Management<br>
+    Risk Assessment<br>
+    Vulnerability Assessment<br>
+    Web Application Assessment<br>
+    Wireless Assessment<br>
+    "
   - title: Regulatory Requirements
-    desc: "Most vulnerability assessments and scanners will leverage publicly available information
-                                to identify well-known vulnerabilities and common misconfigurations. This information
-                                provides the basis for a solid mitigation strategy and is the first step to securing
-                                critical resources. However, for organizations facing a determined and well-resourced
-                                adversary this may not be enough. BLS engineers will conduct exploratory research and
-                                analysis of complex systems for the express purpose of discovering new and/or
-                                undisclosed vulnerabilities. The objective is to discover these vulnerabilities and take
-                                corrective action before they can be exploited by an attacker."
+    desc: "Regulatory requirements include the Health Insurance Portability and Accountability Act (HIPAA) and Payment Card Industry (PCI) regulations for the Healthcare and Social Services and Retail Trade industry sectors, respectively. HIPAA violations can run anywhere from $100 – $50,000 per violation with a maximum fine of $1.5 million dollars per calendar year. Fines for PCI non-compliance can be as high as $100k per month for level 1 businesses and in the event of a breach, each credit card holder record lost will cost the company between $50 – $150 dollars.
+    <br><br>
+    BLS provides security services that specifically address PCI-DSSv3.2 and HIPAA regulatory requirements. We specialize in understanding each client’s regulatory needs and design our services to not only demonstrate compliance but also to effectively defend and protect critical data.
+    "
   - title: Vulnerability Research
-    desc: "Most vulnerability assessments and scanners will leverage publicly available information
-                                to identify well-known vulnerabilities and common misconfigurations. This information
-                                provides the basis for a solid mitigation strategy and is the first step to securing
-                                critical resources. However, for organizations facing a determined and well-resourced
-                                adversary this may not be enough. BLS engineers will conduct exploratory research and
-                                analysis of complex systems for the express purpose of discovering new and/or
-                                undisclosed vulnerabilities. The objective is to discover these vulnerabilities and take
-                                corrective action before they can be exploited by an attacker."
+    desc: "Most vulnerability assessments and scanners will leverage publicly available information to identify well-known vulnerabilities and common misconfigurations. 
+    <br><br>
+    This information provides the basis for a solid mitigation strategy and is the first step to securing critical resources. However, for organizations facing a determined and well-resourced adversary this may not be enough. 
+    <br><br>
+    BLS engineers will conduct exploratory research and analysis of complex systems for the express purpose of discovering new and/or undisclosed vulnerabilities. The objective is to discover these vulnerabilities and take corrective action before they can be exploited by an attacker."
