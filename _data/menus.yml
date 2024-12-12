@@ -16,9 +16,7 @@ primary:
       - name: "Careers"
         url: "/careers/"
         weight: 2
-      - name: "Contact"
-        url: "/contact/"
-        weight: 2
+
         
 
 footer_menu_one_title: Usefull Link
