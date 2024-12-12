@@ -1,7 +1,7 @@
 {% for item in site.data.social %}
   <li>
     <a href="{{ item.link }}" data-cursor='-opaque'>
-      {% if item.png == 'true' %} 
+      {% if item.png == true %} 
       <img src="{{site.baseurl}}assets/images/{{ item.icon }}">
       {% else %}
       <i class="{{ item.icon }}"></i>
