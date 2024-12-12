@@ -1,17 +1,30 @@
 [
   {
     "name": "Facebook",
-    "link": "https://facebook.com/",
+    "link": "https://facebook.com/BLSRI",
     "icon": "fab fa-facebook-f"
   },
   {
-    "name": "Pinterest",
-    "link": "https://twitter.com/",
-    "icon": "fab fa-pinterest-p"
+    "name": "Github",
+    "link": "https://github.com/blacklanternsecurity",
+    "icon": "fab fa-github"
   },
   {
-    "name": "Github",
-    "link": "https://github.com/",
-    "icon": "fab fa-github"
+    "name": "Linkedin",
+    "link": "https://www.linkedin.com/company/black-lantern-security/",
+    "icon": "fab fa-linkedin"
+    
+  },
+  {
+    "name": "Discord",
+    "link": "https://discord.gg/PZqkgxu5SA",
+    "icon": "discord.png",
+    "png": true,
+  },
+  {
+    "name": "X",
+    "link": "https://x.com/blacklanternllc ",
+    "icon": "x.png",
+    "png": true,
   }
 ]
