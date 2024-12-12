@@ -41,7 +41,7 @@
                         </li>
                         {% endif %}
                     </ul>
-                    <a class="btn" href="{{ product.btn_url }}">
+                    <a class="btn" href="{{ product.btn_url }}" {% if btn_link_external == true%} target="_blank"{% endif %}>
                         <span class="btn_label"> {{ product.btn_text }}</span>
                     </a>
                 </div>
