@@ -21,7 +21,7 @@
                     <ul class="iconlist_block unordered_list justify-content-center">
                         {% for item in site.data.menus.footer_menu %}
                         <li>
-                            <a href="{{ item.url }}">
+                            <a href="{{site.baseurl}}{{ item.url }}">
                                 <span class="iconlist_label">
                                     {{ item.title }}
                                 </span>
