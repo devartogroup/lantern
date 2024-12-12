@@ -2,9 +2,9 @@
   <li>
     <a href="{{ item.link }}" data-cursor='-opaque'>
       {% if item.png == 'true' %} 
-      <img src="{{ item.icon }}">
+      <img src="{{site.baseurl}}assets/images/{{ item.icon }}">
       {% else %}
-      <i class="{{site.baseurl}}assets/images/{{ item.icon }}"></i>
+      <i class="{{ item.icon }}"></i>
       {% endif %} 
     </a>
 </li>
