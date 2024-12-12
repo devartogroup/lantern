@@ -7,7 +7,8 @@
     "source": "Free & Open Source",
     "grade": "Enterprise Grade",
     "btn_text": "View More",
-    "btn_link": "https://github.com/blacklanternsecurity/bbot"
+    "btn_link": "https://github.com/blacklanternsecurity/bbot",
+    "btn_link_external": "true"
   },
   {
     "image": "../assets/images/logo_trevorspray.webp",
@@ -17,7 +18,8 @@
     "source": "Free & Open Source",
     "grade": "",
     "btn_text": "View More",
-    "btn_link": "https://github.com/blacklanternsecurity/writehat"
+    "btn_link": "https://github.com/blacklanternsecurity/writehat",
+    "btn_link_external": "true"
   },
   {
     "image": "../assets/images/logo_writehat.webp",
@@ -27,7 +29,8 @@
     "source": "",
     "grade": "Enterprise Grade",
     "btn_text": "Contact Us",
-    "btn_link": "#"
+    "btn_link": "https://devartogroup.github.io/lantern/contact/",
+    "btn_link_external": "false"
   },
   {
     "image": "../assets/images/logo_baddns.webp",
@@ -37,7 +40,8 @@
     "source": "Free & Open Source",
     "grade": "",
     "btn_text": "View More",
-    "btn_link": "https://github.com/blacklanternsecurity/TREVORspray"
+    "btn_link": "ttps://github.com/blacklanternsecurity/TREVORspray",
+    "btn_link_external": "true"
   },
   {
     "image": "../assets/images/logo_splinternet.webp",
@@ -47,7 +51,8 @@
     "source": "Free & Open Source",
     "grade": "",
     "btn_text": "View More",
-    "btn_link": "https://github.com/blacklanternsecurity/baddns"
+    "btn_link": "https://github.com/blacklanternsecurity/baddns",
+    "btn_link_external": "true"
   },
   {
     "image": "../assets/images/logo_manspider.webp",
@@ -57,6 +62,7 @@
     "source": "Free & Open Source",
     "grade": "",
     "btn_text": "View More",
-    "btn_link": "https://github.com/blacklanternsecurity/MANSPIDER"
+    "btn_link": "https://github.com/blacklanternsecurity/MANSPIDER",
+    "btn_link_external": "true"
   }
 ]
