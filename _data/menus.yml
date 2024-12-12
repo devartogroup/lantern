@@ -4,18 +4,23 @@ primary:
       - name: "Services"
         url: "/services/"
         weight: 2
+        externalurl: "false"
       - name: "Products"
         url: "/products/"
         weight: 2
+        externalurl: "false"
       - name: "Research"
         url: "https://blog.blacklanternsecurity.com/"
         weight: 2
+        externalurl: "true"
       - name: "Advisories"
         url: "/advisories/"
         weight: 2
+        externalurl: "false"
       - name: "Careers"
         url: "/careers/"
         weight: 2
+        externalurl: "false"
 
         
 
