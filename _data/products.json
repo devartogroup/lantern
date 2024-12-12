@@ -11,7 +11,8 @@
     "btn_link_external": "true"
   },
   {
-    "image": "../assets/images/logo_trevorspray.webp",
+    
+    "image": "../assets/images/logo_writehat.webp",
     "title": "Writehat",
     "sub_title": "Vulnerabilities Solved",
     "desc": "We've all experienced the frustrations that accompany formatting, placement, and content generation. WriteHat enables consultants to quickly and easily generate reports based on raw data, screenshots, and re-usable content.",
@@ -22,7 +23,7 @@
     "btn_link_external": "true"
   },
   {
-    "image": "../assets/images/logo_writehat.webp",
+    "image": "../assets/images/logo_splinternet.webp",
     "title": "SplinterNET",
     "sub_title": "Execute continuous attacks for up to the minute detection and prevention.",
     "desc": "Breach and Attack simulation (BAS) provides for continuous validation and improvement of network-, host-, email-, and web-based security controls.",
@@ -33,7 +34,8 @@
     "btn_link_external": "false"
   },
   {
-    "image": "../assets/images/logo_baddns.webp",
+    
+    "image": "../assets/images/logo_trevorspray.webp",
     "title": "TrevorSpray",
     "sub_title": "",
     "desc": "TREVORspray is a modular password sprayer with threading, SSH proxying, loot modules, and more!",
@@ -44,7 +46,8 @@
     "btn_link_external": "true"
   },
   {
-    "image": "../assets/images/logo_splinternet.webp",
+    
+    "image": "../assets/images/logo_baddns.webp",
     "title": "badDNS",
     "sub_title": "",
     "desc": "BadDNS is a standalone tool and BBOT module for detecting domain/subdomain takeovers of all kinds, including other DNS issues like NSEC walks and Subdomain Takeovers.",
