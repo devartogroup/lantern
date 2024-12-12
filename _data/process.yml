@@ -9,43 +9,38 @@ process1:
   - title: Assess
     sub_title: "Assess Workflow Resources and Assets"
     list_items:
-      - item: "What is the <a href='#'>LIFEBLOOD</a> of the business?"
-      - item: "Where are the <a href='#'>CROWN JEWELS?</a>"
-      - item: "Which workflows are the primary drivers for <a href='#'>PROFIT, REVENUE,</a> and <a href='#'>CASHFLOW?</a>"
-      - item: "Where is the critical <a href='#'>DATA? BLS</a> is dedicated to understanding the <a href='#'>ENTIRE</a> organization."
-  - title: Enumerate
-    sub_title: "Enumerate and Attack Assets"
+      - item: "Which Information Technology (IT) assets support critical business workflows?"
+      - item: "Are they VULNERABLE?"
+      - item: "How are they DEFENDED?"
+      - item: "BLS will work to profile and assess critical business applications and services."
+  - title: Attack
+    sub_title: "Enumerate and Attack"
     list_items:
-      - item: "What is the <a href='#'>LIFEBLOOD</a> of the business?"
-      - item: "Where are the <a href='#'>CROWN JEWELS?</a>"
-      - item: "Which workflows are the primary drivers for <a href='#'>PROFIT, REVENUE,</a> and <a href='#'>CASHFLOW?</a>"
-      - item: "Where is the critical <a href='#'>DATA? BLS</a> is dedicated to understanding the <a href='#'>ENTIRE</a> organization." 
+      - item: "Can critical assets WITHSTAND an attack?"
+      - item: "BLS works to emulate attacker tactics, techniques, and procedures (TTPs) that the organization is most likely to face based on current threat intelligence."
   - title: Quantify
-    sub_title: "Quantify Business Impacts"
+    sub_title: ""
     list_items:
-      - item: "What is the <a href='#'>LIFEBLOOD</a> of the business?"
-      - item: "Where are the <a href='#'>CROWN JEWELS?</a>"
-      - item: "Which workflows are the primary drivers for <a href='#'>PROFIT, REVENUE,</a> and <a href='#'>CASHFLOW?</a>"
-      - item: "Where is the critical <a href='#'>DATA? BLS</a> is dedicated to understanding the <a href='#'>ENTIRE</a> organization."
+      - item: "What were the FINANCIAL IMPACTS of the attacks?"
+      - item: "Was critical data exfiltrated?"
+      - item: "Were critical applications taken offline? If so, for how long?>"
+      - item: "What is the ACTUAL COST of a security incident or breach? "
   - title: Verify
-    sub_title: "Verify and Validate Defensive Controls"
+    sub_title: ""
     list_items:
-      - item: "What is the <a href='#'>LIFEBLOOD</a> of the business?"
-      - item: "Where are the <a href='#'>CROWN JEWELS?</a>"
-      - item: "Which workflows are the primary drivers for <a href='#'>PROFIT, REVENUE,</a> and <a href='#'>CASHFLOW?</a>"
-      - item: "Where is the critical <a href='#'>DATA? BLS</a> is dedicated to understanding the <a href='#'>ENTIRE</a> organization."
+      - item: "Were host-, network-, application-, and email-based defenses adequate and effective?"
+      - item: "Which attacks were detected, prevented, or altogether missed?"
+      - item: "By emulating multiple classes of attacker, BLS VERIFIES and VALIDATES existing controls."
   - title: Identify
-    sub_title: "Identify Strategic and Tactical Gaps"
+    sub_title: ""
     list_items:
-      - item: "What is the <a href='#'>LIFEBLOOD</a> of the business?"
-      - item: "Where are the <a href='#'>CROWN JEWELS?</a>"
-      - item: "Which workflows are the primary drivers for <a href='#'>PROFIT, REVENUE,</a> and <a href='#'>CASHFLOW?</a>"
-      - item: "Where is the critical <a href='#'>DATA? BLS</a> is dedicated to understanding the <a href='#'>ENTIRE</a> organization."
+      - item: "Are there STRATEGIC or TACTICAL gaps in the organization's defenses?"
+      - item: "Can the defensive posture be improved with minor configuration changes and targeted tuning or is there a larger problem?"
+      - item: "BLS will work with the organization to develop and define remediations commensurate with RISK and COST."
   - title: Remediate
-    sub_title: "Remediate and Reduce Risk"
+    sub_title: ""
     list_items:
-      - item: "What is the <a href='#'>LIFEBLOOD</a> of the business?"
-      - item: "Where are the <a href='#'>CROWN JEWELS?</a>"
-      - item: "Which workflows are the primary drivers for <a href='#'>PROFIT, REVENUE,</a> and <a href='#'>CASHFLOW?</a>"
-      - item: "Where is the critical <a href='#'>DATA? BLS</a> is dedicated to understanding the <a href='#'>ENTIRE</a> organization."
+      - item: "BLS will provide actionable findings with detailed remediation guidance. This could include anything from a small change to a configuration file to a significant change in the network architecture. "
+      - item: "BLS is dedicated to helping you implement fixes, REDUCE risk, and DRIVE DOWN the COST of a security incident or breach."
+
   
