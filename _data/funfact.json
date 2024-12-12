@@ -3,18 +3,18 @@
     "title": "Assessment Completed",
     "image": "assets/images/icon_horizontal_bar.svg",
     "count": 403,
-    "desc": "Cybersecurity Consulting, Threat Intelligence, Security Auditing, Security Monitoring, Compliance Services"
+    "desc": ""
   },
   {
     "title": "Published CVEs",
     "image": "assets/images/icon_vertical_line.svg",
     "count": 16,
-    "desc": "Cybersecurity Consulting, Threat Intelligence, Security Auditing, Security Monitoring, Compliance Services"
+    "desc": ""
   },
   {
     "title": "Assets Defended",
     "image": "assets/images/icon_chart.svg",
     "count": 51963,
-    "desc": "Cybersecurity Consulting, Threat Intelligence, Security Auditing, Security Monitoring, Compliance Services"
+    "desc": ""
   }
 ]
