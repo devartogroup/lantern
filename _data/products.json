@@ -58,7 +58,7 @@
     "btn_link_external": "true"
   },
   {
-    "image": "../assets/images/logo_manspider.webp",
+    "image": "../assets/images/ico-manspider.svg",
     "title": "ManSpider",
     "sub_title": "",
     "desc": "Crawl SMB shares for juicy information. File content searching + regex is supported!",
