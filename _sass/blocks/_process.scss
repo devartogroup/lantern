@@ -33,6 +33,27 @@
 				background-color: var(--bs-primary);
 			}
 		}
+		@media screen and (min-width: 998px){
+			&:nth-child(2){
+				padding-left: 14px;
+			}
+			&:nth-child(3){
+				padding-left: 28px;
+			}
+			&:nth-child(4){
+				padding-left: 42px;
+			}
+			&:nth-child(5){
+				padding-left: 56px;
+			}
+			&:nth-child(6){
+				padding-left: 70px;
+			}
+			&:nth-child(7){
+				padding-left: 84px;
+			}
+		}
+		
 	}
 
 	.collapse_head {
