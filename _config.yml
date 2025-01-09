@@ -11,7 +11,7 @@ homepage:
   show_call_box: true
 
 logo:
-  main: "assets/images/site_logo_white.svg"
+  main: "assets/images/black_lantern_logo_light.svg"
   light: "assets/images/site_logo_black.svg"
 
 footer:
