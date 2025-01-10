@@ -42,7 +42,7 @@
     "source": "Free & Open Source",
     "grade": "",
     "btn_text": "View More",
-    "btn_link": "ttps://github.com/blacklanternsecurity/TREVORspray",
+    "btn_link": "https://github.com/blacklanternsecurity/TREVORspray",
     "btn_link_external": "true"
   },
   {
@@ -66,6 +66,17 @@
     "grade": "",
     "btn_text": "View More",
     "btn_link": "https://github.com/blacklanternsecurity/MANSPIDER",
+    "btn_link_external": "true"
+  },
+  {
+    "image": "../assets/images/logo-bad-secrets.png",
+    "title": "BadSecrets",
+    "sub_title": "",
+    "desc": "A pure python library for identifying the use of known or very weak cryptographic secrets across a variety of platforms. The project is designed to be both a repository of various 'known secrets' (for example, ASP.NET machine keys found in examples in tutorials), and to provide a language-agnostic abstraction layer for identifying their use.",
+    "source": "Free & Open Source",
+    "grade": "",
+    "btn_text": "View More",
+    "btn_link": "https://github.com/blacklanternsecurity/badsecrets",
     "btn_link_external": "true"
   }
 ]
