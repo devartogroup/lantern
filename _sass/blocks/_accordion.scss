@@ -61,6 +61,9 @@
 		p {
 			font-size: 20px;
 		}
+		strong {
+			font-weight: 900;
+		}
 	}
 
 	.accordion-item:has([aria-expanded=true]) {
