@@ -1,7 +1,7 @@
 process1:
   - title: Quantify
     sub_title: ""
-    list_items:
+    list_items: 
       - item: "What were the <a href='#'>FINANCIAL IMPACTS</a> of the attacks?"
       - item: "Was critical data exfiltrated?"
       - item: "Were critical applications taken offline? If so, for how long?"
