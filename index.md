@@ -11,7 +11,6 @@ hero_btn2_text: "Contact Us"
 hero_btn2_url: "/contact/"
 ---
 
-
 {% include hero.html %}
 {% include about.html %}
 {% include process.html %}
