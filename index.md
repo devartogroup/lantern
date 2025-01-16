@@ -14,7 +14,6 @@ hero_btn2_url: "/contact/"
 {% include hero.html %}
 {% include about.html %}
 {% include process.html %}
-hola
-
+{% include testimonial.html %}
 {% include cta.html %}
 
